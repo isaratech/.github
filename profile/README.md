@@ -7,22 +7,22 @@ Welcome to the official GitHub organization of **Isara Technologies**, a softwar
 ##  Technical Focus & Core Projects
 
 ### HORUS – Unified Operational Supervisor (SDIS)
-An on-premise, web-first platform consolidating real-time dashboards, mapping, predictive analytics, and secure alerts—all within your infrastructure. Built on a microservices architecture with Kotlin/Spring Boot, PostgreSQL, jsreport, Angular front-end (CoreUI, ag-Grid, ag-Charts, Google Maps), and observability via Prometheus/Grafana. The platform also features AI for event detection and alert automation :contentReference[oaicite:1]{index=1}.
+An on-premise, web-first platform consolidating real-time dashboards, mapping, predictive analytics, and secure alerts—all within your infrastructure. Built on a microservices architecture with Kotlin/Spring Boot, PostgreSQL, jsreport, Angular front-end (CoreUI, ag-Grid, ag-Charts, Google Maps), and observability via Prometheus/Grafana. The platform also features AI for event detection and alert automation.
 
 ### PSO – Operational Supervision Portal
-An earlier version of HORUS leveraging modern development technologies like Spring Boot to unified disparate rescue service software tools into a single operational interface :contentReference[oaicite:2]{index=2}.
+An earlier version of HORUS leveraging modern development technologies like Spring Boot to unified disparate rescue service software tools into a single operational interface.
 
 ### First Aid Training (VR)
-A virtual reality application for teaching emergency response techniques (CPR, recovery position, situational analysis) in an immersive, interactive environment. Demonstrates your expertise in VR serious gaming and pedagogical design :contentReference[oaicite:3]{index=3}.
+A virtual reality application for teaching emergency response techniques (CPR, recovery position, situational analysis) in an immersive, interactive environment. Demonstrates your expertise in VR serious gaming and pedagogical design.
 
 ### Odyssée – Hyper-Reality Travel
-A VR-based storytelling project for the Bibliothèque Humaniste de Sélestat, allowing users to “travel” through historical narratives drawn from library manuscripts across different virtual worlds :contentReference[oaicite:4]{index=4}.
+A VR-based storytelling project for the Bibliothèque Humaniste de Sélestat, allowing users to “travel” through historical narratives drawn from library manuscripts across different virtual worlds.
 
 ### Vaux – Historical VR Exploration
-A mobile AR/VR app enabling users to virtually explore the ruins of Vaux-devant-Damloup, a WWI destroyed village. Features GPS, compass, and compass-driven navigation in a historical 3D reconstruction environment :contentReference[oaicite:5]{index=5}.
+A mobile AR/VR app enabling users to virtually explore the ruins of Vaux-devant-Damloup, a WWI destroyed village. Features GPS, compass, and compass-driven navigation in a historical 3D reconstruction environment.
 
 ### Dojo of Villebon-Sur-Yvette – Architectural Visualization
-An ArchViz project transforming CAD models into high-fidelity real-time interactive scenes. Focused on mesh optimization, material design, and immersive presentation techniques :contentReference[oaicite:6]{index=6}.
+An ArchViz project transforming CAD models into high-fidelity real-time interactive scenes. Focused on mesh optimization, material design, and immersive presentation techniques.
 
 ---
 
@@ -30,12 +30,12 @@ An ArchViz project transforming CAD models into high-fidelity real-time interact
 
 We develop a rich ecosystem of Unreal Engine plugins aimed at enhancing development flexibility and realism:
 
-- **Landscape Generator**: Procedural terrain generator using Perlin/Voronoi noise, material layering, tiled landscapes, and seeded foliage spawning :contentReference[oaicite:7]{index=7}.
-- **Shapefile Reader**: Imports GIS shapefiles into UE4 as splines—for traffic simulation or urban modeling :contentReference[oaicite:8]{index=8}.
-- **Android Sensors API**: Blueprint-accessible plugins to leverage Android device sensors (e.g. light sensor, SMS) via JNI bridging :contentReference[oaicite:9]{index=9}.
-- Plus additional plugins: Unreal Web Server, UMG Video Player, Noise Library, Filter Toolkit, Productivity Tools, Windows Message Box, NMEA Parser :contentReference[oaicite:10]{index=10}.
+- **Landscape Generator**: Procedural terrain generator using Perlin/Voronoi noise, material layering, tiled landscapes, and seeded foliage spawning.
+- **Shapefile Reader**: Imports GIS shapefiles into UE4 as splines—for traffic simulation or urban modeling.
+- **Android Sensors API**: Blueprint-accessible plugins to leverage Android device sensors (e.g. light sensor, SMS) via JNI bridging.
+- Plus additional plugins: Unreal Web Server, UMG Video Player, Noise Library, Filter Toolkit, Productivity Tools, Windows Message Box, NMEA Parser.
 
-These tools reflect deep expertise in multi-platform C++/Blueprint development, editor integration, performance optimization (such as ParallelFor, asset registry handling, UI widgets), and modern Unreal Engine development patterns :contentReference[oaicite:11]{index=11}.
+These tools reflect deep expertise in multi-platform C++/Blueprint development, editor integration, performance optimization (such as ParallelFor, asset registry handling, UI widgets), and modern Unreal Engine development patterns.
 
 ---
 
@@ -63,7 +63,7 @@ Our team is closely affiliated with the **CIAD Lab**, fostering research into di
 We welcome contributions! Whether refining HORUS, extending plugins, or building new AI-driven modules:
 
 1. Fork and clone the repo.
-2. Read each project’s `README` or documentation linked on [docs.isaratech.com](https://docs.isaratech.com) :contentReference[oaicite:12]{index=12}.
+2. Read each project’s `README` or documentation linked on [docs.isaratech.com](https://docs.isaratech.com).
 3. Create feature branches, propose pull requests.
 4. Highlight innovations around AI, scalability, cross-platform logic, or immersive tech.
 
